@@ -1,0 +1,12 @@
+#include<stdio.h> // single
+
+/*
+multi line
+comment here
+*/
+
+int main() {
+    // another one
+    printf("g3by8gb3g8y3"); /* inline */
+}
+
